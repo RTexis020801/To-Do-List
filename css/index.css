@@ -1,0 +1,10 @@
+@import './wrapper.css';
+@import './about.css';
+@import './list.css';
+
+body{
+    min-block-size: 100vh;
+    font-family: sans-serif;
+    background-color: #34495e;
+    color: white;
+}
